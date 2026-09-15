@@ -23,8 +23,6 @@ customer feedback loop.
   First employee, MVP → production. AI sales agent handling real retail constraints; R$4.1M+ in sales processed in year one (company outcome).
 - **[fazendados](https://github.com/otaviovasc/fazendados)** —
   Dairy-farm operations system where an AI assistant is the main data-entry surface — with a hard rule that AI output is never fact until a human confirms it.
-- **[sitio-cafezinho](https://github.com/otaviovasc/sitio-cafezinho)** —
-  Mobile-first ops app for a family dairy farm: herd, milking, collection, purchases, cash flow. Modular monolith, Docker, PostgreSQL.
 
 ## Background
 
